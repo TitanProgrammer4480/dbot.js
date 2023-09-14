@@ -7,8 +7,12 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-#config
+#replit stuff
 config.json
+.replit
+package-lock.json
+package.json
+replit.nix
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
